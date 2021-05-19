@@ -1,2 +1,2 @@
 # assinatura-digital
-Aplicação simples para a geração de assinatura digital para email
+Aplicação simples para a geração de crach para jogo digital ETS2
